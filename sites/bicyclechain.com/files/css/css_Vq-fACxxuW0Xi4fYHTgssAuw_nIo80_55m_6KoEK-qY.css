@@ -1,4 +1,4 @@
 #block-views-tweets-block { display: none }
-.comment_forbidden { display: none; }
+.comment_forbidden { display: none !important; }
 #block-user-login { display: none }
 div.widgets-element-horizontal{float:left;}div.widgets-clear{clear:both;}
